@@ -1,2 +1,2 @@
-DROP TABLE "user";
 DROP TABLE task;
+DROP TABLE "user";
